@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+
+}
+
+head {
+	
+}
+
+
+
+body {
+	background-image: url('../images/cork-wallet.png');
+	 
+}
+
+header {
+	margin-left:90px;
+	color:white;
+	background-color: #4aaaa5;
+	padding: 20px;
+	width: 15%;
+
+	
+}
+
+#info {
+	
+	float: right;
+	margin-right: 120px;
+	margin-top: -50px;
+}
+
+
+
+
