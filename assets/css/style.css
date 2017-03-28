@@ -21,8 +21,22 @@ h2 {
 
 }
 
+hr {
+	width: 85%;
+	color: grey;
 
 
+}
+
+#hr2 {
+	color: grey;
+}
+
+
+p { 
+	line-height: 140%;
+	color: grey;
+}
 
 
 body {
@@ -49,7 +63,7 @@ header {
 #info {
 	
 	float: right;
-	margin-right: 20px;
+	margin-right: 8px;
 	margin-top: -50px;
 	color: grey;
 	font-family: georgia;
@@ -63,10 +77,19 @@ header {
 
 }
 
+#connect {
+	float: right;
+	margin-top: -390px;
+	background-color: white;
+	padding: 20px;
+	text-align: center;
+	font-family: georgia;
+	color: grey;
+	
 
-#paragraph {
 
 }
+
 
 footer {
 	background-color: #666666;
