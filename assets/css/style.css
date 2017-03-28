@@ -4,7 +4,7 @@
 #section {
 	background-color: white;
 	margin-right: 350px;
-	margin-left: 90px;
+	margin-left: 46px;
 	width: 650px;
 	font-family: arial;
 	border: solid;
@@ -24,6 +24,8 @@ h2 {
 hr {
 	width: 85%;
 	color: grey;
+	
+
 
 
 }
@@ -41,18 +43,18 @@ p {
 
 body {
 	background-image: url('../images/cork-wallet.png');
-	width:960px;
 	font-family: arial;
+	width: 960px;
 	
 	 
 }
 
 header {
-	margin-left:95px;
+	margin-left:50px;
 	color:white;
 	background-color: #4aaaa5;
-	padding: 40px;
-	width: 18%;
+	padding: 30px;
+	width: 17%;
 	margin-top:-20px;
 	text-align: center;
 	font-family: Georgia;
@@ -63,7 +65,7 @@ header {
 #info {
 	
 	float: right;
-	margin-right: 8px;
+	margin-right: 40px;
 	margin-top: -50px;
 	color: grey;
 	font-family: georgia;
@@ -80,11 +82,14 @@ header {
 #connect {
 	float: right;
 	margin-top: -390px;
+	margin-right: 35px;
 	background-color: white;
 	padding: 20px;
 	text-align: center;
 	font-family: georgia;
 	color: grey;
+
+
 	
 
 
@@ -97,7 +102,7 @@ footer {
 	position: absolute;
 	bottom: 0;
 	padding: 20px;
-	width: 110%;
+	width: 960px;
 	color: white;
 }
 
