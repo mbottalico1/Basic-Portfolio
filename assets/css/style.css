@@ -1,26 +1,47 @@
+
+
+
 #section {
 	background-color: white;
 	margin-right: 350px;
 	margin-left: 90px;
 	width: 650px;
+	font-family: arial;
+	border: solid;
+	border-color: #dddddd;
+	margin-top: 20px;
+
 }
+
+
+
+h2 {
+	color: grey;
+	margin-left: 50px;
+
+}
+
+
+
 
 
 body {
 	background-image: url('../images/cork-wallet.png');
 	width:960px;
+	font-family: arial;
 	
 	 
 }
 
 header {
-	margin-left:90px;
+	margin-left:95px;
 	color:white;
 	background-color: #4aaaa5;
 	padding: 40px;
 	width: 18%;
 	margin-top:-20px;
 	text-align: center;
+	font-family: Georgia;
 
 	
 }
@@ -31,14 +52,19 @@ header {
 	margin-right: 20px;
 	margin-top: -50px;
 	color: grey;
+	font-family: georgia;
 	
 }
 
 #header {
 	background-color: white;
 	width: 960px;
+	border: #cccccc; 
 
-	
+}
+
+
+#paragraph {
 
 }
 
