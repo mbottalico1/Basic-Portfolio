@@ -14,6 +14,11 @@
 }
 
 
+#section2 {
+
+
+}
+
 
 h2 {
 	color: grey;
@@ -41,12 +46,19 @@ p {
 }
 
 
-body {
+#page1 {
 	background-image: url('../images/cork-wallet.png');
 	font-family: arial;
 	width: 960px;
 	
 	 
+}
+
+
+#page2 {
+	background-image: url('../images/cork-wallet.png');
+	width: 960px;
+
 }
 
 header {
@@ -90,10 +102,55 @@ header {
 	color: grey;
 
 
-	
+}
+
+#connect2 {
+	float: right;
+	margin-right: 35px;
+	margin-top: 24px;
+	background-color: white;
+	padding: 20px;
+	text-align: center;
+	font-family: georgia;
+	color: grey;
+}
+
+
+#contact {
+	float: left;
+	background-color: white;
+	width: 650px;
+	margin-top: 23px;
+	margin-left: 50px;
+	font-family: georgia;
+	height: 400px;
 
 
 }
+
+#name {
+	margin-right: 30px;
+}
+
+
+.typename {
+	width: 500px;
+	height:20px;
+	margin-left:50px;
+}
+
+.typeemail {
+	width: 500px;
+	height: 20px;
+	margin-left:50px;
+}
+
+.typemessage {
+	height: 100px;
+	width:500px;
+	margin-left:50px;
+}
+
 
 
 footer {
