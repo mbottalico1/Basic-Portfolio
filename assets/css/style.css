@@ -23,6 +23,7 @@
 h2 {
 	color: grey;
 	margin-left: 50px;
+	font-family: georgia;
 
 }
 
@@ -58,6 +59,7 @@ p {
 #page2 {
 	background-image: url('../images/cork-wallet.png');
 	width: 960px;
+	
 
 }
 
@@ -93,7 +95,7 @@ header {
 
 #connect {
 	float: right;
-	margin-top: -390px;
+	margin-top: 24px;
 	margin-right: 35px;
 	background-color: white;
 	padding: 20px;
@@ -116,22 +118,23 @@ header {
 }
 
 
-#contact {
+.contact {
 	float: left;
 	background-color: white;
 	width: 650px;
 	margin-top: 23px;
 	margin-left: 50px;
 	font-family: georgia;
-	height: 400px;
+	height: 400px; 
 
 
 }
 
-#name {
-	margin-right: 30px;
-}
 
+#search1 {
+	padding: 1px;
+	margin-left: 50px;
+}
 
 .typename {
 	width: 500px;
@@ -139,10 +142,21 @@ header {
 	margin-left:50px;
 }
 
+#search2 {
+	padding: 1px;
+	margin-left: 50px;
+}
+
+
 .typeemail {
 	width: 500px;
 	height: 20px;
 	margin-left:50px;
+}
+
+#search3 {
+	padding: 1px;
+	margin-left: 50px;
 }
 
 .typemessage {
@@ -150,7 +164,10 @@ header {
 	width:500px;
 	margin-left:50px;
 }
-
+ #submitbutton {
+ 	padding: 3px;
+ 	margin-left: 45px;
+ }
 
 
 footer {
