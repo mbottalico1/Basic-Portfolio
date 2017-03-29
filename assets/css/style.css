@@ -13,10 +13,13 @@
 
 }
 
+.portfolio {
+	background-color: white;
+	width: 650px;
+	margin-left: 49px;
+	margin-top: 23px;
 
-#section2 {
-
-
+	
 }
 
 
@@ -26,6 +29,7 @@ h2 {
 	font-family: georgia;
 
 }
+
 
 hr {
 	width: 85%;
@@ -59,8 +63,14 @@ p {
 #page2 {
 	background-image: url('../images/cork-wallet.png');
 	width: 960px;
-	
 
+
+}
+
+
+#page3 {
+	background-image: url('../images/cork-wallet.png');
+	width: 960px;
 }
 
 header {
@@ -85,6 +95,7 @@ header {
 	font-family: georgia;
 	
 }
+
 
 #header {
 	background-color: white;
@@ -168,6 +179,38 @@ header {
  	padding: 3px;
  	margin-left: 45px;
  }
+
+#food {
+	float: right;
+	margin-right: 50px;
+}
+
+
+#city {
+	margin-left: 50px;
+
+}
+
+#skating {
+
+}
+
+#dogg {
+	margin-top: 20px;
+	margin-left: 50px;
+}
+
+#skating {
+	margin-top: 20px;
+	float: right;
+	margin-right: 50px;
+}
+
+#raining {
+	margin-left: 50px;
+	margin-top: 20px;
+
+}
 
 
 footer {
