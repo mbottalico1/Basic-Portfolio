@@ -65,7 +65,7 @@ p {
 #page1 {
 	background-image: url('../images/cork-wallet.png');
 	width: 960px;
-	
+	margin-left: 0;
 	 
 }
 
@@ -73,6 +73,7 @@ p {
 #page2 {
 	background-image: url('../images/cork-wallet.png');
 	width: 960px;
+	margin-left: 0;
 
 
 }
@@ -81,6 +82,7 @@ p {
 #page3 {
 	background-image: url('../images/cork-wallet.png');
 	width: 960px;
+	margin-left: 0;
 }
 
 header {
