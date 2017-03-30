@@ -1,4 +1,6 @@
-
+html {
+	width: 960px;
+}
 
 
 #section {
@@ -276,8 +278,10 @@ footer {
 	position: absolute;
 	bottom: 0;
 	padding: 20px;
-	width: 960px;
+	width: 920px;
 	color: white;
+	right: 0;
+	left: 0;
 }
 
 
