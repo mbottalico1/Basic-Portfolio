@@ -38,10 +38,10 @@ h2 {
 hr {
 	width: 85%;
 	color: grey;
-	
+}
 
-
-
+h3 {
+	color: grey;
 }
 
 #hr2 {
@@ -52,6 +52,7 @@ hr {
 p { 
 	line-height: 140%;
 	color: grey;
+	margin-left: 5px;
 }
 
 #ny {
@@ -63,7 +64,6 @@ p {
 
 #page1 {
 	background-image: url('../images/cork-wallet.png');
-	font-family: arial;
 	width: 960px;
 	
 	 
@@ -103,8 +103,8 @@ header {
 	margin-top: -50px;
 	color: grey;
 	font-family: georgia;
-	
 }
+
 
 
 #header {
@@ -203,6 +203,7 @@ header {
     position: relative;
     color: white;
     text-align: center;
+    margin-left: 0px;
 }
 
 
@@ -219,6 +220,7 @@ header {
     color: white;
     text-align: center;
     width: 38.4%;
+    margin-left: 0px;
 }
 
 
@@ -235,6 +237,7 @@ header {
     color: white;
     padding: 10px;
     width: 38.4%;
+    margin-left: 0px;
 }
 
 #skating {
@@ -250,6 +253,7 @@ header {
     background-color: #4aaaa5;
     color: white;
     padding: 10px;
+    margin-left: 0px;
 }
 
 
@@ -267,6 +271,7 @@ header {
     color: white;
     background-color: #4aaaa5;
     width: 38.3%;
+    margin-left: 0px;
 }
 
 
