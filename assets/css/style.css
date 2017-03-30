@@ -52,6 +52,12 @@ p {
 	color: grey;
 }
 
+#ny {
+	border:1px;
+	margin-top: 0px;
+	
+}
+
 
 #page1 {
 	background-image: url('../images/cork-wallet.png');
@@ -185,6 +191,16 @@ header {
 #food {
 	float: right;
 	margin-right: 50px;
+
+}
+
+#burrito {
+	margin-top: -50px;
+    background-color: #4aaaa5;
+    padding: 10px;
+    position: relative;
+    color: white;
+    text-align: center;
 }
 
 
@@ -193,20 +209,47 @@ header {
 
 }
 
-#skating {
-
+#ny {
+	margin-top: -50px;
+    background-color: #4aaaa5;
+    padding: 10px;
+    position: relative;
+    color: white;
+    text-align: center;
+    width: 38.4%;
 }
+
 
 #dogg {
 	margin-top: 20px;
 	margin-left: 50px;
 }
 
+#retriever {
+	margin-top: -50px;
+    text-align: center;
+    background-color: #4aaaa5;
+    position: relative;
+    color: white;
+    padding: 10px;
+    width: 38.4%;
+}
+
 #skating {
-	margin-top: 20px;
+	margin-top: 5px;
 	float: right;
 	margin-right: 50px;
 }
+
+#board {
+	position: relative;
+    margin-top: -50px;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 10px;
+}
+
 
 #raining {
 	margin-left: 50px;
@@ -214,8 +257,20 @@ header {
 
 }
 
+#drip {
+	position: relative;
+    padding: 10px;
+    margin-top: -50px;
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5;
+    width: 38.3%;
+}
+
 
 footer {
+	border-top: solid;
+	border-color: #4aaaa5;
 	background-color: #666666;
 	text-align: center;
 	position: absolute;
